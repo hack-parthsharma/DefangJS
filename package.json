@@ -1,0 +1,34 @@
+{
+	"name": "defangjs",
+	"version": "1.0.5",
+	"description": "URL/IP/Email defanging with Javascript",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/edoardottt/defangjs.git"
+	},
+	"keywords": [
+		"url",
+		"ip",
+		"phishing",
+		"defang",
+		"defanging",
+		"url-defang",
+		"security",
+		"email",
+		"web-security",
+		"email-security",
+		"cti",
+		"ioc",
+		"malware"
+	],
+	"author": "edoardottt",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/edoardottt/defangjs/issues"
+	},
+	"homepage": "https://github.com/edoardottt/defangjs#readme"
+}
